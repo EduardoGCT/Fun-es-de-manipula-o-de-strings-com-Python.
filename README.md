@@ -1,0 +1,1 @@
+Esse projeto é para colocar em prática a manipulação de strings com python. 
